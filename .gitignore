@@ -1,3 +1,5 @@
 .vs/
 .vscode/
 .ipynb_checkpoints/
+.libsvm/
+.weka-3.8/
